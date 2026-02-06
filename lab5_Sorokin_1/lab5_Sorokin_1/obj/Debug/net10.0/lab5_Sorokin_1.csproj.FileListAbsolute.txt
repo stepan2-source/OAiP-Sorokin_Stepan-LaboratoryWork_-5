@@ -1,0 +1,14 @@
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\bin\Debug\net10.0\lab5_Sorokin_1.exe
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\bin\Debug\net10.0\lab5_Sorokin_1.deps.json
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\bin\Debug\net10.0\lab5_Sorokin_1.runtimeconfig.json
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\bin\Debug\net10.0\lab5_Sorokin_1.dll
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\bin\Debug\net10.0\lab5_Sorokin_1.pdb
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\obj\Debug\net10.0\lab5_Sorokin_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\obj\Debug\net10.0\lab5_Sorokin_1.AssemblyInfoInputs.cache
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\obj\Debug\net10.0\lab5_Sorokin_1.AssemblyInfo.cs
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\obj\Debug\net10.0\lab5_Sorokin_1.csproj.CoreCompileInputs.cache
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\obj\Debug\net10.0\lab5_Sorokin_1.dll
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\obj\Debug\net10.0\refint\lab5_Sorokin_1.dll
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\obj\Debug\net10.0\lab5_Sorokin_1.pdb
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\obj\Debug\net10.0\lab5_Sorokin_1.genruntimeconfig.cache
+C:\Users\sssssss\source\repos\lab5_Sorokin_1\lab5_Sorokin_1\obj\Debug\net10.0\ref\lab5_Sorokin_1.dll

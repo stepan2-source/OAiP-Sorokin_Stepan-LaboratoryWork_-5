@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sssssss\\source\\repos\\lab5_Sorokin_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\c#\\SorokinSS2 (2).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE75AE2-84CD-472D-A7A9-036BB4A5272D}|lab5_Sorokin_1\\lab5_Sorokin_1.csproj|c:\\users\\sssssss\\source\\repos\\lab5_sorokin_1\\lab5_sorokin_1\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE75AE2-84CD-472D-A7A9-036BB4A5272D}|lab5_Sorokin_1\\lab5_Sorokin_1.csproj|solutionrelative:lab5_sorokin_1\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE75AE2-84CD-472D-A7A9-036BB4A5272D}|lab5_Sorokin_1\\lab5_Sorokin_1.csproj|c:\\users\\sssssss\\source\\repos\\lab5_sorokin_1\\lab5_sorokin_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE75AE2-84CD-472D-A7A9-036BB4A5272D}|lab5_Sorokin_1\\lab5_Sorokin_1.csproj|solutionrelative:lab5_sorokin_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE75AE2-84CD-472D-A7A9-036BB4A5272D}|lab5_Sorokin_1\\lab5_Sorokin_1.csproj|c:\\users\\sssssss\\source\\repos\\lab5_sorokin_1\\lab5_sorokin_1\\lab5_sorokin_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCE75AE2-84CD-472D-A7A9-036BB4A5272D}|lab5_Sorokin_1\\lab5_Sorokin_1.csproj|solutionrelative:lab5_sorokin_1\\lab5_sorokin_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SorokinSS2 (2).cs",
+              "DocumentMoniker": "C:\\c#\\SorokinSS2 (2).cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\c#\\SorokinSS2 (2).cs",
+              "ToolTip": "C:\\c#\\SorokinSS2 (2).cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\c#\\SorokinSS2 (2).cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T19:38:23.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Call.cs",
+              "DocumentMoniker": "C:\\Users\\sssssss\\source\\repos\\lab5_Sorokin_1\\lab5_Sorokin_1\\Call.cs",
+              "RelativeDocumentMoniker": "lab5_Sorokin_1\\Call.cs",
+              "ToolTip": "C:\\Users\\sssssss\\source\\repos\\lab5_Sorokin_1\\lab5_Sorokin_1\\Call.cs",
+              "RelativeToolTip": "lab5_Sorokin_1\\Call.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T19:30:04.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sssssss\\source\\repos\\lab5_Sorokin_1\\lab5_Sorokin_1\\Program.cs",
+              "RelativeDocumentMoniker": "lab5_Sorokin_1\\Program.cs",
+              "ToolTip": "C:\\Users\\sssssss\\source\\repos\\lab5_Sorokin_1\\lab5_Sorokin_1\\Program.cs",
+              "RelativeToolTip": "lab5_Sorokin_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T19:29:07.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab5_Sorokin_1",
+              "DocumentMoniker": "C:\\Users\\sssssss\\source\\repos\\lab5_Sorokin_1\\lab5_Sorokin_1\\lab5_Sorokin_1.csproj",
+              "RelativeDocumentMoniker": "lab5_Sorokin_1\\lab5_Sorokin_1.csproj",
+              "ToolTip": "C:\\Users\\sssssss\\source\\repos\\lab5_Sorokin_1\\lab5_Sorokin_1\\lab5_Sorokin_1.csproj",
+              "RelativeToolTip": "lab5_Sorokin_1\\lab5_Sorokin_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-06T19:28:47.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
